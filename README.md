@@ -11,3 +11,9 @@ ln -s $(pwd)/ssh $HOME/bin
 
 export PATH="$HOME/bin:$PATH"
 ```
+
+### Example
+
+```shell
+<path-to-git>/ssh root@localhost
+```
